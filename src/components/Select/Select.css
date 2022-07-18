@@ -5,12 +5,14 @@
 }
 
 .select-num input {
-    width: 30px;
-    background: transparent;
+    width: 40px;
+    background: rgb(6, 33, 0);
     color: #cecece;
     font-weight: bold;
     font-size: 20px;
     border: none;
+    padding: 5px;
+    text-align: center;
 }
 
 .select-img {
@@ -21,10 +23,17 @@
 }
 
 .select-img:last-child {
-    height: 20px;
+    height: 30px;
+}
+
+.select-img img {
+    border: 5px solid transparent;
+    object-fit: cover;
+    object-position: top;
+    width: 42px;
 }
 
 .select-img img.selected {
-    background: rgba(255, 255, 255, 0.16);
-    box-shadow: 0 0 3px 5px rgba(255, 255, 255, 0.16);
+    background: rgb(6, 33, 0);
+    border: 5px solid rgb(6, 33, 0);
 }
