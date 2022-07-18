@@ -1,0 +1,9 @@
+.select-num {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.select-num input {
+    width: 20px;
+}
