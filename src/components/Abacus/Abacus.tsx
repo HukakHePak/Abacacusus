@@ -1,7 +1,17 @@
 import './Abacus.css';
 import {AbacusCell} from './AbacusCell';
+import React from "react";
 
-export function Abacus(props) {
+export interface AbacusProps {
+    size: number,
+    topBonesCount: number,
+    botBonesCount: number,
+    skin: string,
+    bonesSkin: string,
+    separator: number
+}
+
+export function Abacus(props: AbacusProps) {
     const {size, topBonesCount, botBonesCount, skin, bonesSkin, separator} = props;
 
     const cells = [];

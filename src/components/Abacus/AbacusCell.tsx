@@ -1,7 +1,7 @@
 import './Abacus.css';
 
-export function AbacusCell(props) {
-    const {skin, count, separator = 0.5} = props;
+export function AbacusCell(props: {skin: string, count: number, separator: number}) {
+    const {skin, count, separator} = props;
 
     const bones = [];
 
