@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/abacacusus/static/css/main.7ca76117.css",
-    "main.js": "/abacacusus/static/js/main.5d2263d5.js",
-    "static/media/1614786549_6-p-spokoinii-fon-7.jpg": "/abacacusus/static/media/1614786549_6-p-spokoinii-fon-7.a0760d019d3c70fdcffe.jpg",
-    "index.html": "/abacacusus/index.html",
-    "main.7ca76117.css.map": "/abacacusus/static/css/main.7ca76117.css.map",
-    "main.5d2263d5.js.map": "/abacacusus/static/js/main.5d2263d5.js.map"
+    "main.css": "/Abacacusus/static/css/main.7ca76117.css",
+    "main.js": "/Abacacusus/static/js/main.e0060c83.js",
+    "static/media/1614786549_6-p-spokoinii-fon-7.jpg": "/Abacacusus/static/media/1614786549_6-p-spokoinii-fon-7.a0760d019d3c70fdcffe.jpg",
+    "index.html": "/Abacacusus/index.html",
+    "main.7ca76117.css.map": "/Abacacusus/static/css/main.7ca76117.css.map",
+    "main.e0060c83.js.map": "/Abacacusus/static/js/main.e0060c83.js.map"
   },
   "entrypoints": [
     "static/css/main.7ca76117.css",
-    "static/js/main.5d2263d5.js"
+    "static/js/main.e0060c83.js"
   ]
 }
