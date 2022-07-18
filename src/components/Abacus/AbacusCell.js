@@ -5,7 +5,7 @@ export function AbacusCell(props) {
 
     const bones = [];
 
-    for( let i = 0; i < count; i++) {
+    for (let i = 0; i < count; i++) {
         bones.push(<img key={i}
                         className="abacus-bone"
                         src={skin}

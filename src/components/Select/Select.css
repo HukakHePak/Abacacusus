@@ -1,9 +1,30 @@
 .select-num {
     display: flex;
     justify-content: flex-end;
-    gap: 10px;
+    gap: 20px;
 }
 
 .select-num input {
-    width: 20px;
+    width: 30px;
+    background: transparent;
+    color: #cecece;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+}
+
+.select-img {
+    height: 60px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+
+.select-img:last-child {
+    height: 20px;
+}
+
+.select-img img.selected {
+    background: rgba(255, 255, 255, 0.16);
+    box-shadow: 0 0 3px 5px rgba(255, 255, 255, 0.16);
 }
