@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7Babacacusus%7D/static/css/main.7ca76117.css",
+    "main.js": "/%7Babacacusus%7D/static/js/main.b78f9ee6.js",
+    "static/media/1614786549_6-p-spokoinii-fon-7.jpg": "/%7Babacacusus%7D/static/media/1614786549_6-p-spokoinii-fon-7.a0760d019d3c70fdcffe.jpg",
+    "index.html": "/%7Babacacusus%7D/index.html",
+    "main.7ca76117.css.map": "/%7Babacacusus%7D/static/css/main.7ca76117.css.map",
+    "main.b78f9ee6.js.map": "/%7Babacacusus%7D/static/js/main.b78f9ee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca76117.css",
+    "static/js/main.b78f9ee6.js"
+  ]
+}
